@@ -1,6 +1,6 @@
 # AluraBooks - curso de responsividade
 
-Projeto feito durante o curso de responsividade, de acordo com [projto elaborado no figma](https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks?node-id=37%3A94&t=0zcdXYnce9jxjXVX-0). 
+Projeto feito durante o curso de responsividade, de acordo com [projeto elaborado no figma](https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks?node-id=37%3A94&t=0zcdXYnce9jxjXVX-0). 
 
 ## Table of contents
 
