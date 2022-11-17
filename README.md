@@ -19,7 +19,7 @@ Projeto feito durante o curso de responsividade, de acordo com [projeto elaborad
 
 ### Links
 
-- Live Site URL: []()
+- Live Site URL: [https://alura-alurabooks.vercel.app/](https://alura-alurabooks.vercel.app/)
 
 ## My process
 
