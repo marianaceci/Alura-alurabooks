@@ -55,4 +55,8 @@ hr {
         padding-left: 1em;
         border-left: 1px solid var(--cinza-claro);
     }
+
+    .rodape__titulo {
+        padding-left: 10em;
+    }
 }
